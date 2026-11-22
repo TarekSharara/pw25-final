@@ -1,0 +1,27 @@
+{
+  "name": "25PW Final",
+  "short_name": "25PW Final",
+  "description": "25m Pistol Women Final Simulator",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EEF0F3",
+  "theme_color": "#6B1E3A",
+  "icons": [
+    {
+      "src": "pw25-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pw25-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
