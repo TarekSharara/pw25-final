@@ -1,6 +1,6 @@
 /* 25PW Final – offline service worker. Change VERSION after every update of index.html */
 const PREFIX = "pw25-final-";
-const VERSION = PREFIX + "v15";
+const VERSION = PREFIX + "v16";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./pw25-icon-180.png", "./pw25-icon-192.png", "./pw25-icon-512.png"];
 
 self.addEventListener("install", e => {
